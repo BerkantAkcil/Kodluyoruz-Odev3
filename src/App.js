@@ -14,17 +14,7 @@ import NavBar from "./components/NavBar";
 import NotFound from "./components/NotFound";
 import Products from "./components/Products";
 import ProductDetail from "./components/ProductDetail";
-/*
-+bootstrap kullan
-+components klasörü oluştur
-  Nav
-  Home
-  Contact
-  About
-+App icinde import et
-her birini goster
-react router dom ile ekranda ayrı ayrı göster
-*/
+
 
 export default function App() {
   return (
